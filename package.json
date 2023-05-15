@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/bigfatapp/",
+    "build": "vite build --base=/html_bc-55_SuperStasss/",
     "preview": "vite preview"
   },
   "devDependencies": {
